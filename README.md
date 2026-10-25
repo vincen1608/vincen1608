@@ -1,4 +1,4 @@
-# GitHub Profile README — Vincen M.
+# GitHub Profile README — Vincen M
 
 <!-- ==================== HEADER BANNER ==================== -->
 
