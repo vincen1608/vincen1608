@@ -3,7 +3,7 @@
 <!-- ==================== HEADER BANNER ==================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:2563EB&height=220&section=header&text=Vincen%20M.&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=Data%20Analytics%20%7C%20Data%20Science%20%7C%20AI&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Vincen M. — GitHub profile banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4F46E5,50:7C3AED,100:2563EB&height=220&section=header&text=Vincen%20M.&fontSize=58&fontColor=FFFFFF&fontAlignY=36&desc=Data%20Analytics%20%7C%20Data%20Science%20%7C%20AI&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Vincen M — GitHub profile banner"/>
 </p>
 
 <p align="center">
