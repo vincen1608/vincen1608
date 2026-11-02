@@ -3,99 +3,173 @@
 
 # VINCEN M
 
-### Aspiring Data Analyst
+### ASPIRING DATA ANALYST
 
-**Transforming data into insights that support better decisions.**
+**Turning Data Into Meaningful Business Insights**
 
 <br/>
 
-<a href="https://github.com/vincen1608">
-  <img src="https://img.shields.io/badge/GitHub-vincen1608-181717?style=flat-square&logo=github" />
-</a>
 <a href="https://www.linkedin.com/in/vincen-m-bb6429217/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/vincen1608">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-## About Me
+## ABOUT ME
 
-I'm Vincen, an aspiring Data Analyst currently developing my skills in Data Analytics at IT Vedant.
+Hello! I'm **Vincen M**, an aspiring Data Analyst currently pursuing Data Analytics training at IT Vedant.
 
-I enjoy working with data, identifying patterns, building dashboards, and translating raw information into meaningful business insights.
+I enjoy exploring datasets, discovering patterns, solving analytical problems, and transforming raw data into actionable insights.
 
-My focus is on strengthening my analytical skills through practical projects and continuous learning.
+- Currently learning and building practical analytics projects.
+- Interested in Data Analytics and Business Intelligence.
+- Focused on Python, SQL, Excel and Power BI.
+- Always learning and improving my analytical skills.
 
-## Technical Skills
+---
 
-| Category | Technologies |
-|---|---|
-| Programming | Python |
-| Database | SQL, MySQL |
-| Spreadsheet | Microsoft Excel |
-| Data Visualization | Power BI, Tableau |
-| Analytics | Data Cleaning, EDA, KPI Analysis |
-| Tools | Git, GitHub |
+## TECHNICAL SKILLS
 
-## Featured Projects
+<div align="center">
+
+**Programming & Data Analysis**
+
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+
+<br/><br/>
+
+**Analytics & Visualization**
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+
+<br/><br/>
+
+**Development Tools**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+
+</div>
+
+---
+
+## FEATURED PROJECTS
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### 01. BUVIJAG AI
-**AI-Powered Data Analytics Application**
 
-An AI-powered application designed to simplify data analysis and help businesses make informed decisions.
+**AI-Powered Data Analytics**
+
+An intelligent analytics application designed to simplify data analysis and generate actionable business insights.
 
 - Automated KPI detection
 - Data health scoring
 - Anomaly detection
-- Automated insights and recommendations
+- AI-generated insights
 - What-if business simulation
 
-### 02. Brazilian E-Commerce SQL Analysis
+</td>
+<td width="50%" valign="top">
 
-**Database Analysis | MySQL**
+### 02. Brazilian E-Commerce Analysis
 
-Analyzing Brazilian e-commerce data to explore business performance and discover meaningful insights through SQL.
+**SQL | MySQL**
 
-- Database creation and management
-- Data extraction and transformation
-- Joins and analytical queries
-- Business-focused data exploration
+Exploring Brazilian e-commerce data to understand business performance and customer trends.
 
-### 03. Hotel Booking Analysis
+- SQL queries and joins
+- Data exploration
+- Database management
+- Business analysis
 
-**Microsoft Excel | Dashboard**
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-An Excel-based analytics project focused on hotel booking data.
+### 03. Hotel Booking Dashboard
 
-- Data cleaning and preparation
-- Pivot Tables and formulas
-- Charts and visualizations
-- KPI dashboard development
+**Microsoft Excel**
+
+An interactive dashboard project focused on hotel booking data and business performance.
+
+- Data cleaning
+- Pivot Tables
+- KPI analysis
+- Data visualization
+
+</td>
+<td width="50%" valign="top">
+
+### 04. Data Analytics Projects
+
+**Power BI | Excel | SQL**
+
+Practical analytics exercises and dashboard development to strengthen data-driven problem-solving skills.
+
+- Data preparation
+- Dashboard design
+- Business insights
+- Analytical reporting
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Current Learning Goals
-
-- Improve SQL and Python proficiency
-- Develop interactive Power BI dashboards
-- Strengthen analytical and problem-solving skills
-- Build practical end-to-end analytics projects
-
-## Let's Connect
-
-I'm open to connecting with professionals, learning opportunities, and collaborations in Data Analytics.
-
-- **GitHub:** [vincen1608](https://github.com/vincen1608)
-- **LinkedIn:** [Vincen M](https://www.linkedin.com/in/vincen-m-bb6429217/)
-
----
+## GITHUB STATISTICS
 
 <div align="center">
 
-**Turning Data Into Meaningful Insights.**
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=vincen1608&show_icons=true&theme=transparent&hide_border=true&title_color=247BFF&icon_color=247BFF&text_color=8B949E" />
 
-*Learn • Analyze • Improve*
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincen1608&layout=compact&theme=transparent&hide_border=true&title_color=247BFF&text_color=8B949E" />
+
+<br/>
+
+<img width="90%" src="https://streak-stats.demolab.com?user=vincen1608&theme=transparent&hide_border=true&ring=247BFF&fire=247BFF&currStreakLabel=247BFF" />
+
+</div>
+
+---
+
+## CURRENT FOCUS
+
+- Improving Python and SQL skills
+- Building interactive Power BI dashboards
+- Developing end-to-end analytics projects
+- Strengthening business and analytical thinking
+
+---
+
+## CONNECT WITH ME
+
+<div align="center">
+
+**Let's connect and explore opportunities in Data Analytics.**
+
+<br/>
+
+<a href="https://www.linkedin.com/in/vincen-m-bb6429217/">
+<img src="https://img.shields.io/badge/LinkedIn-Vincen_M-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://github.com/vincen1608">
+<img src="https://img.shields.io/badge/GitHub-vincen1608-181717?style=for-the-badge&logo=github" />
+</a>
+
+<br/><br/>
+
+*Learn. Analyze. Innovate.*
 
 </div>
