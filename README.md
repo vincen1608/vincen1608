@@ -1,57 +1,69 @@
 
 <div align="center">
 
+<img src="./assets/profile.jpg" width="180" alt="Vincen M - Data Analyst" />
+
 # VINCEN M
 
 ### ASPIRING DATA ANALYST
 
-**Turning Data Into Meaningful Business Insights**
+**DATA ANALYSIS · BUSINESS INTELLIGENCE · INSIGHTS**
+
+Turning complex data into clear, meaningful business decisions.
 
 <br/>
 
 <a href="https://www.linkedin.com/in/vincen-m-bb6429217/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-247BFF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/vincen1608">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Follow-161B22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/FOCUS-Data%20Analytics-172554?style=flat-square" />
+<img src="https://img.shields.io/badge/LOCATION-Chennai%2C%20India-172554?style=flat-square" />
+<img src="https://img.shields.io/badge/STATUS-Currently%20Learning-172554?style=flat-square" />
 
 </div>
 
 ---
 
-## ABOUT ME
+## 01 — ABOUT ME
 
-Hello! I'm **Vincen M**, an aspiring Data Analyst currently pursuing Data Analytics training at IT Vedant.
+I'm **Vincen M**, an aspiring Data Analyst currently pursuing Data Analytics training at **IT Vedant**.
 
-I enjoy exploring datasets, discovering patterns, solving analytical problems, and transforming raw data into actionable insights.
+I am passionate about exploring datasets, identifying meaningful patterns, solving analytical problems, and transforming raw information into actionable business insights.
 
-- Currently learning and building practical analytics projects.
-- Interested in Data Analytics and Business Intelligence.
-- Focused on Python, SQL, Excel and Power BI.
-- Always learning and improving my analytical skills.
+My approach combines analytical thinking, technical skills, and continuous learning to solve real-world business problems.
+
+- Developing practical Data Analytics projects.
+- Exploring data through SQL and Python.
+- Creating dashboards using Power BI and Excel.
+- Learning to communicate insights effectively.
 
 ---
 
-## TECHNICAL SKILLS
+## 02 — TECHNICAL EXPERTISE
 
 <div align="center">
 
-**Programming & Data Analysis**
+### PROGRAMMING & DATABASE
 
 <img src="https://skillicons.dev/icons?i=python,mysql" />
 
 <br/><br/>
 
-**Analytics & Visualization**
+### BUSINESS INTELLIGENCE & VISUALIZATION
 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
-<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" />
 
 <br/><br/>
 
-**Development Tools**
+### DEVELOPMENT TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
@@ -59,7 +71,7 @@ I enjoy exploring datasets, discovering patterns, solving analytical problems, a
 
 ---
 
-## FEATURED PROJECTS
+## 03 — FEATURED PROJECTS
 
 <table>
 <tr>
@@ -67,59 +79,68 @@ I enjoy exploring datasets, discovering patterns, solving analytical problems, a
 
 ### 01. BUVIJAG AI
 
-**AI-Powered Data Analytics**
+<sub>AI-POWERED DATA ANALYTICS</sub>
 
-An intelligent analytics application designed to simplify data analysis and generate actionable business insights.
+An intelligent analytics application designed to simplify business data analysis and generate actionable insights.
 
-- Automated KPI detection
-- Data health scoring
+**Key Features**
+- Automatic KPI detection
+- Data Health Score
 - Anomaly detection
-- AI-generated insights
-- What-if business simulation
+- Automatic chart selection
+- Evidence-based insights
+- What-if business simulator
 
 </td>
 <td width="50%" valign="top">
 
-### 02. Brazilian E-Commerce Analysis
+### 02. BRAZILIAN E-COMMERCE
 
-**SQL | MySQL**
+<sub>SQL · MYSQL · DATA ANALYSIS</sub>
 
-Exploring Brazilian e-commerce data to understand business performance and customer trends.
+Exploring Brazilian e-commerce data to understand customer behaviour and business performance.
 
-- SQL queries and joins
-- Data exploration
+**Key Focus**
 - Database management
-- Business analysis
+- SQL joins and queries
+- Data exploration
+- Business performance analysis
+- Analytical insights
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-### 03. Hotel Booking Dashboard
+### 03. HOTEL BOOKING DASHBOARD
 
-**Microsoft Excel**
+<sub>MICROSOFT EXCEL · DATA VISUALIZATION</sub>
 
-An interactive dashboard project focused on hotel booking data and business performance.
+An interactive Excel dashboard focused on hotel booking data and performance analysis.
 
+**Key Focus**
 - Data cleaning
 - Pivot Tables
 - KPI analysis
-- Data visualization
+- Charts and visualizations
+- Dashboard development
 
 </td>
 <td width="50%" valign="top">
 
-### 04. Data Analytics Projects
+### 04. DATA ANALYTICS PROJECTS
 
-**Power BI | Excel | SQL**
+<sub>POWER BI · EXCEL · SQL</sub>
 
-Practical analytics exercises and dashboard development to strengthen data-driven problem-solving skills.
+Practical analytics projects focused on transforming datasets into meaningful business insights.
 
+**Key Focus**
 - Data preparation
-- Dashboard design
-- Business insights
-- Analytical reporting
+- Data visualization
+- Dashboard development
+- Business analysis
+- Reporting
 
 </td>
 </tr>
@@ -127,49 +148,58 @@ Practical analytics exercises and dashboard development to strengthen data-drive
 
 ---
 
-## GITHUB STATISTICS
+## 04 — GITHUB ANALYTICS
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=vincen1608&show_icons=true&theme=transparent&hide_border=true&title_color=247BFF&icon_color=247BFF&text_color=8B949E" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vincen1608&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincen1608&layout=compact&theme=transparent&hide_border=true&title_color=247BFF&text_color=8B949E" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincen1608&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" />
 
-<br/>
+<br/><br/>
 
-<img width="90%" src="https://streak-stats.demolab.com?user=vincen1608&theme=transparent&hide_border=true&ring=247BFF&fire=247BFF&currStreakLabel=247BFF" />
+<img width="95%" src="https://streak-stats.demolab.com?user=vincen1608&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E" />
 
 </div>
 
 ---
 
-## CURRENT FOCUS
+## 05 — CURRENT LEARNING
 
-- Improving Python and SQL skills
-- Building interactive Power BI dashboards
-- Developing end-to-end analytics projects
-- Strengthening business and analytical thinking
+| Focus Area | Learning Goals |
+|:--|:--|
+| Python | Data analysis and manipulation |
+| SQL | Advanced queries and database analysis |
+| Power BI | Interactive dashboards |
+| Excel | Advanced analytics and reporting |
+| Tableau | Data visualization |
 
 ---
 
-## CONNECT WITH ME
+## 06 — LET'S CONNECT
 
 <div align="center">
 
-**Let's connect and explore opportunities in Data Analytics.**
+### HAVE A PROJECT OR AN IDEA?
+
+I'm always interested in learning, connecting with professionals, and exploring opportunities in Data Analytics.
 
 <br/>
 
 <a href="https://www.linkedin.com/in/vincen-m-bb6429217/">
-<img src="https://img.shields.io/badge/LinkedIn-Vincen_M-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-<a href="https://github.com/vincen1608">
-<img src="https://img.shields.io/badge/GitHub-vincen1608-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-247BFF?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <br/><br/>
 
-*Learn. Analyze. Innovate.*
+<a href="https://github.com/vincen1608">
+<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-161B22?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+**LEARN · ANALYZE · CREATE**
+
+<sub>VINCEN M | DATA ANALYTICS PORTFOLIO</sub>
 
 </div>
