@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" width="100%" alt="Vincen M — Aspiring Data Analyst"/>
+<img src="./hero.svg" width="100%" alt="Vincen M — Aspiring Data Analyst"/>
 
 <a href="https://www.linkedin.com/in/vincen-m-bb6429217/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://github.com/vincen1608"><img src="https://img.shields.io/badge/GitHub-Follow-24292F?style=for-the-badge&logo=github&logoColor=white"/></a>
@@ -23,13 +23,13 @@ I enjoy exploring datasets, identifying patterns, solving analytical problems, a
 ---
 
 <div align="center">
-<img src="./assets/skills.svg" width="100%" alt="Technical expertise: Python, MySQL, Excel, Power BI, Tableau, Git, GitHub and VS Code"/>
+<img src="./skills.svg" width="100%" alt="Technical expertise: Python, MySQL, Excel, Power BI, Tableau, Git, GitHub and VS Code"/>
 </div>
 
 ---
 
 <div align="center">
-<img src="./assets/projects.svg" width="100%" alt="Featured projects: BUVIJAG AI, Brazilian E-Commerce, Hotel Booking Dashboard and Data Analytics Projects"/>
+<img src="./projects.svg" width="100%" alt="Featured projects: BUVIJAG AI, Brazilian E-Commerce, Hotel Booking Dashboard and Data Analytics Projects"/>
 </div>
 
 ### Project details
@@ -44,7 +44,7 @@ I enjoy exploring datasets, identifying patterns, solving analytical problems, a
 ---
 
 <div align="center">
-<img src="./assets/analytics.svg" width="100%" alt="Build, analyze and visualize — my learning journey"/>
+<img src="./analytics.svg" width="100%" alt="Build, analyze and visualize — my learning journey"/>
 </div>
 
 ## GITHUB STATISTICS
