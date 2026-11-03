@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="t">
+<title id="t">Technical expertise — Vincen M</title>
+<defs>
+ <linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1d38"/><stop offset="1" stop-color="#101b32"/></linearGradient>
+ <linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#21b8ff"/><stop offset=".5" stop-color="#8b5cf6"/><stop offset="1" stop-color="#efbd4d"/></linearGradient>
+</defs>
+<rect width="1200" height="300" rx="22" fill="url(#b)" stroke="#29476e"/>
+<text x="36" y="52" font-family="Arial" font-size="27" font-weight="700" fill="#f4f7ff">TECHNICAL EXPERTISE</text>
+<rect x="36" y="68" width="1128" height="3" rx="2" fill="url(#line)"/>
+<rect x="36" y="96" width="258" height="72" rx="13" fill="#101f37" stroke="#3776AB" stroke-width="2"/>
+<rect x="48" y="108" width="48" height="48" rx="11" fill="#3776AB"/>
+<text x="72" y="139" text-anchor="middle" font-family="Arial" font-size="19" font-weight="700" fill="#fff">PY</text>
+<text x="112" y="140" font-family="Arial" font-size="21" font-weight="700" fill="#edf4ff">Python</text>
+<rect x="321" y="96" width="258" height="72" rx="13" fill="#101f37" stroke="#1686b0" stroke-width="2"/>
+<rect x="333" y="108" width="48" height="48" rx="11" fill="#1686b0"/>
+<text x="357" y="139" text-anchor="middle" font-family="Arial" font-size="19" font-weight="700" fill="#fff">SQL</text>
+<text x="397" y="140" font-family="Arial" font-size="21" font-weight="700" fill="#edf4ff">MySQL</text>
+<rect x="606" y="96" width="258" height="72" rx="13" fill="#101f37" stroke="#217346" stroke-width="2"/>
+<rect x="618" y="108" width="48" height="48" rx="11" fill="#217346"/>
+<text x="642" y="139" text-anchor="middle" font-family="Arial" font-size="19" font-weight="700" fill="#fff">X</text>
+<text x="682" y="140" font-family="Arial" font-size="21" font-weight="700" fill="#edf4ff">Excel</text>
+<rect x="891" y="96" width="258" height="72" rx="13" fill="#101f37" stroke="#d6a900" stroke-width="2"/>
+<rect x="903" y="108" width="48" height="48" rx="11" fill="#d6a900"/>
+<text x="927" y="139" text-anchor="middle" font-family="Arial" font-size="19" font-weight="700" fill="#fff">BI</text>
+<text x="967" y="140" font-family="Arial" font-size="21" font-weight="700" fill="#edf4ff">Power BI</text>
+<rect x="36" y="188" width="258" height="72" rx="13" fill="#101f37" stroke="#d66b24" stroke-width="2"/>
+<rect x="48" y="200" width="48" height="48" rx="11" fill="#d66b24"/>
+<text x="72" y="231" text-anchor="middle" font-family="Arial" font-size="19" font-weight="700" fill="#fff">T</text>
+<text x="112" y="232" font-family="Arial" font-size="21" font-weight="700" fill="#edf4ff">Tableau</text>
+<rect x="321" y="188" width="258" height="72" rx="13" fill="#101f37" stroke="#e65a3a" stroke-width="2"/>
+<rect x="333" y="200" width="48" height="48" rx="11" fill="#e65a3a"/>
+<text x="357" y="231" text-anchor="middle" font-family="Arial" font-size="19" font-weight="700" fill="#fff">G</text>
+<text x="397" y="232" font-family="Arial" font-size="21" font-weight="700" fill="#edf4ff">Git</text>
+<rect x="606" y="188" width="258" height="72" rx="13" fill="#101f37" stroke="#596579" stroke-width="2"/>
+<rect x="618" y="200" width="48" height="48" rx="11" fill="#596579"/>
+<text x="642" y="231" text-anchor="middle" font-family="Arial" font-size="19" font-weight="700" fill="#fff">GH</text>
+<text x="682" y="232" font-family="Arial" font-size="21" font-weight="700" fill="#edf4ff">GitHub</text>
+<rect x="891" y="188" width="258" height="72" rx="13" fill="#101f37" stroke="#168bd2" stroke-width="2"/>
+<rect x="903" y="200" width="48" height="48" rx="11" fill="#168bd2"/>
+<text x="927" y="231" text-anchor="middle" font-family="Arial" font-size="19" font-weight="700" fill="#fff">VS</text>
+<text x="967" y="232" font-family="Arial" font-size="21" font-weight="700" fill="#edf4ff">VS Code</text>
+</svg>
