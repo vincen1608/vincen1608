@@ -29,7 +29,7 @@ I enjoy exploring datasets, identifying patterns, solving analytical problems, a
 ---
 
 <div align="center">
- <img src="https://github.com/vincen1608/vincen1608/blob/main/projects.svg" width="100%" alt="Featured Projects"/>
+  <img src="./projects.png" width="100%" alt="Featured Projects"/>
 </div>
 
 ### Project details
