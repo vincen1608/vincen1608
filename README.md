@@ -1,4 +1,4 @@
-```html
+html
 <div align="center">
 
 <img src="./hero.png" width="100%" alt="Vincen M — Aspiring Data Analyst"/>
@@ -82,4 +82,4 @@ Open to learning, collaboration and opportunities in Data Analytics.
 **LEARN · ANALYZE · CREATE**
 
 </div>
-```
+
