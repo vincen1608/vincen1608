@@ -58,13 +58,13 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vincen1608&show_icons=true&include_all_commits=true&hide_border=true&bg_color=080B10&title_color=F6D77A&icon_color=C58B2B&text_color=E4EDF9&ring_color=F6D77A"/>
+<img src="https://github-readme-stats.vercel.app/api?username=vincen1608&show_icons=true&theme=dark&hide_border=true&bg_color=080B10&title_color=F6D77A&icon_color=C58B2B&text_color=E4EDF9" width="49%"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincen1608&layout=compact&hide_border=true&bg_color=080B10&title_color=F6D77A&text_color=E4EDF9"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincen1608&layout=compact&theme=dark&hide_border=true&bg_color=080B10&title_color=F6D77A&text_color=E4EDF9" width="49%"/>
 
 <br/><br/>
 
-<img width="70%" src="https://streak-stats.demolab.com?user=vincen1608&theme=dark&hide_border=true&background=080B10&ring=F6D77A&fire=C58B2B&currStreakLabel=F6D77A&sideLabels=E4EDF9&dates=9CA3AF"/>
+<img src="https://streak-stats.demolab.com?user=vincen1608&theme=dark&hide_border=true&background=080B10&ring=F6D77A&fire=C58B2B&currStreakLabel=F6D77A"/>
 
 </div>
 
