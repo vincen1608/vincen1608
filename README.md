@@ -29,7 +29,7 @@ I enjoy exploring datasets, identifying patterns, solving analytical problems, a
 ---
 
 <div align="center">
-  <img src="./projects.svg" width="100%" alt="Featured projects: BUVIJAG AI, Brazilian E-Commerce, Hotel Booking Dashboard and Data Analytics Projects"/>
+  <img src="https://raw.githubusercontent.com/vincen1608/vincen1608/main/projects.svg" width="100%" alt="Featured Projects"/>
 </div>
 
 ### Project details
