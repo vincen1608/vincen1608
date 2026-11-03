@@ -1,34 +1,34 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="470" viewBox="0 0 1200 470" role="img" aria-labelledby="t">
 <title id="t">Featured data analytics projects</title>
 <defs>
- <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0b1b35"/><stop offset="1" stop-color="#10182c"/></linearGradient>
- <linearGradient id="p" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#8b5cf6"/><stop offset="1" stop-color="#268bff"/></linearGradient>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#05080d"/><stop offset="1" stop-color="#10151f"/></linearGradient>
+ <linearGradient id="p" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#f0c85f"/><stop offset="1" stop-color="#b98228"/></linearGradient>
 </defs>
-<rect width="1200" height="470" rx="22" fill="url(#bg)" stroke="#29476e"/>
+<rect width="1200" height="470" rx="22" fill="url(#bg)" stroke="#8a682c"/>
 <text x="36" y="52" font-family="Arial" font-size="27" font-weight="700" fill="#f4f7ff">SELECTED PROJECTS</text>
 <rect x="36" y="68" width="1128" height="3" rx="2" fill="url(#p)"/>
-<rect x="36" y="94" width="552" height="164" rx="17" fill="#101f37" stroke="#8b5cf6" stroke-width="2"/>
-<rect x="54" y="112" width="48" height="48" rx="12" fill="#8b5cf6" fill-opacity=".2" stroke="#8b5cf6"/>
-<text x="78" y="143" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#8b5cf6">01</text>
+<rect x="36" y="94" width="552" height="164" rx="17" fill="#11151d" stroke="#f0c85f" stroke-width="2"/>
+<rect x="54" y="112" width="48" height="48" rx="12" fill="#f0c85f" fill-opacity=".2" stroke="#f0c85f"/>
+<text x="78" y="143" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#f0c85f">01</text>
 <text x="118" y="134" font-family="Arial" font-size="22" font-weight="700" fill="#f4f7ff">BUVIJAG AI</text>
-<text x="60" y="185" font-family="Arial" font-size="17" font-weight="700" fill="#8b5cf6">AI-powered data analytics</text>
+<text x="60" y="185" font-family="Arial" font-size="17" font-weight="700" fill="#f0c85f">AI-powered data analytics</text>
 <text x="60" y="219" font-family="Arial" font-size="16" fill="#cbd8e9">Automated KPIs · Data health · Anomaly detection</text>
-<rect x="612" y="94" width="552" height="164" rx="17" fill="#101f37" stroke="#22b8d6" stroke-width="2"/>
-<rect x="630" y="112" width="48" height="48" rx="12" fill="#22b8d6" fill-opacity=".2" stroke="#22b8d6"/>
-<text x="654" y="143" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#22b8d6">02</text>
+<rect x="612" y="94" width="552" height="164" rx="17" fill="#11151d" stroke="#d6a747" stroke-width="2"/>
+<rect x="630" y="112" width="48" height="48" rx="12" fill="#d6a747" fill-opacity=".2" stroke="#d6a747"/>
+<text x="654" y="143" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#d6a747">02</text>
 <text x="694" y="134" font-family="Arial" font-size="22" font-weight="700" fill="#f4f7ff">BRAZILIAN E-COMMERCE</text>
-<text x="636" y="185" font-family="Arial" font-size="17" font-weight="700" fill="#22b8d6">SQL · MySQL analysis</text>
-<text x="636" y="219" font-family="Arial" font-size="16" fill="#cbd8e9">Database queries · Customer & business insights</text>
-<rect x="36" y="282" width="552" height="164" rx="17" fill="#101f37" stroke="#21b981" stroke-width="2"/>
-<rect x="54" y="300" width="48" height="48" rx="12" fill="#21b981" fill-opacity=".2" stroke="#21b981"/>
-<text x="78" y="331" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#21b981">03</text>
+<text x="636" y="185" font-family="Arial" font-size="17" font-weight="700" fill="#d6a747">SQL · MySQL analysis</text>
+<text x="636" y="219" font-family="Arial" font-size="16" fill="#cbd8e9">Database queries · Customer &amp; business insights</text>
+<rect x="36" y="282" width="552" height="164" rx="17" fill="#11151d" stroke="#c99a3a" stroke-width="2"/>
+<rect x="54" y="300" width="48" height="48" rx="12" fill="#c99a3a" fill-opacity=".2" stroke="#c99a3a"/>
+<text x="78" y="331" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#c99a3a">03</text>
 <text x="118" y="322" font-family="Arial" font-size="22" font-weight="700" fill="#f4f7ff">HOTEL BOOKING DASHBOARD</text>
-<text x="60" y="373" font-family="Arial" font-size="17" font-weight="700" fill="#21b981">Microsoft Excel</text>
+<text x="60" y="373" font-family="Arial" font-size="17" font-weight="700" fill="#c99a3a">Microsoft Excel</text>
 <text x="60" y="407" font-family="Arial" font-size="16" fill="#cbd8e9">Data cleaning · Pivot tables · KPI visualization</text>
-<rect x="612" y="282" width="552" height="164" rx="17" fill="#101f37" stroke="#e8b84b" stroke-width="2"/>
-<rect x="630" y="300" width="48" height="48" rx="12" fill="#e8b84b" fill-opacity=".2" stroke="#e8b84b"/>
-<text x="654" y="331" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#e8b84b">04</text>
+<rect x="612" y="282" width="552" height="164" rx="17" fill="#11151d" stroke="#f6d77a" stroke-width="2"/>
+<rect x="630" y="300" width="48" height="48" rx="12" fill="#f6d77a" fill-opacity=".2" stroke="#f6d77a"/>
+<text x="654" y="331" text-anchor="middle" font-family="Arial" font-size="18" font-weight="700" fill="#f6d77a">04</text>
 <text x="694" y="322" font-family="Arial" font-size="22" font-weight="700" fill="#f4f7ff">DATA ANALYTICS PROJECTS</text>
-<text x="636" y="373" font-family="Arial" font-size="17" font-weight="700" fill="#e8b84b">Power BI · Excel · SQL</text>
+<text x="636" y="373" font-family="Arial" font-size="17" font-weight="700" fill="#f6d77a">Power BI · Excel · SQL</text>
 <text x="636" y="407" font-family="Arial" font-size="16" fill="#cbd8e9">Data preparation · Dashboards · Reporting</text>
 </svg>

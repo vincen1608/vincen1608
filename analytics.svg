@@ -1,19 +1,19 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="230" viewBox="0 0 1200 230" role="img" aria-labelledby="t">
 <title id="t">GitHub analytics and learning goals</title>
-<rect width="1200" height="230" rx="22" fill="#0d1b32" stroke="#29476e"/>
+<rect width="1200" height="230" rx="22" fill="#070a10" stroke="#8a682c"/>
 <text x="36" y="52" font-family="Arial" font-size="27" font-weight="700" fill="#f4f7ff">GITHUB ANALYTICS &amp; LEARNING JOURNEY</text>
 <g font-family="Arial">
- <rect x="36" y="82" width="350" height="112" rx="14" fill="#122746" stroke="#328cff"/>
- <text x="60" y="119" font-size="20" font-weight="700" fill="#58b8ff">BUILD</text>
+ <rect x="36" y="82" width="350" height="112" rx="14" fill="#11151d" stroke="#c99a3a"/>
+ <text x="60" y="119" font-size="20" font-weight="700" fill="#f6d77a">BUILD</text>
  <text x="60" y="151" font-size="17" fill="#e4edf9">Practical analytics projects</text>
  <text x="60" y="177" font-size="15" fill="#9eb5d3">Learn by doing</text>
- <rect x="425" y="82" width="350" height="112" rx="14" fill="#211b40" stroke="#a17aff"/>
- <text x="449" y="119" font-size="20" font-weight="700" fill="#b99aff">ANALYZE</text>
+ <rect x="425" y="82" width="350" height="112" rx="14" fill="#11151d" stroke="#c99a3a"/>
+ <text x="449" y="119" font-size="20" font-weight="700" fill="#f6d77a">ANALYZE</text>
  <text x="449" y="151" font-size="17" fill="#e4edf9">Python · SQL · Excel</text>
- <text x="449" y="177" font-size="15" fill="#b7a8d8">Strengthen analytical thinking</text>
- <rect x="814" y="82" width="350" height="112" rx="14" fill="#282313" stroke="#e7bd5c"/>
- <text x="838" y="119" font-size="20" font-weight="700" fill="#f0c85f">VISUALIZE</text>
+ <text x="449" y="177" font-size="15" fill="#e3c77e">Strengthen analytical thinking</text>
+ <rect x="814" y="82" width="350" height="112" rx="14" fill="#17130a" stroke="#c99a3a"/>
+ <text x="838" y="119" font-size="20" font-weight="700" fill="#f6d77a">VISUALIZE</text>
  <text x="838" y="151" font-size="17" fill="#e4edf9">Power BI · Tableau</text>
- <text x="838" y="177" font-size="15" fill="#d4c49d">Communicate insights</text>
+ <text x="838" y="177" font-size="15" fill="#e3c77e">Communicate insights</text>
 </g>
 </svg>
