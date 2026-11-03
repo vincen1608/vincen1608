@@ -50,8 +50,8 @@ I enjoy exploring datasets, identifying patterns, solving analytical problems, a
 ## GITHUB STATISTICS
 
 <div align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=vincen1608&show_icons=true&hide_border=true&bg_color=0D1B32&title_color=58B8FF&icon_color=F0C85F&text_color=E4EDF9"/>
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincen1608&layout=compact&hide_border=true&bg_color=0D1B32&title_color=B99AFF&text_color=E4EDF9"/>
+  <img width="48%" src="https://github-stats-extended.vercel.app/api?username=vincen1608&show_icons=true&hide_border=true&bg_color=0D1B32&title_color=58B8FF&icon_color=F0C85F&text_color=E4EDF9&cache_seconds=86400"/>
+  <img width="48%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=vincen1608&layout=compact&hide_border=true&bg_color=0D1B32&title_color=B99AFF&text_color=E4EDF9&cache_seconds=86400"/>
 </div>
 
 ---
