@@ -8,10 +8,14 @@
   <img src="./02-about-me.png" width="100%" alt="About Me"/>
 </div>
 
+
+
 <!-- ================= TECHNICAL SKILLS ================= -->
 <div align="center">
   <img src="./03-technical-skills.png" width="100%" alt="Technical Skills"/>
 </div>
+
+
 
 <h2 align="center">⚡ TECH STACK</h2>
 
@@ -29,10 +33,14 @@
 
 </div>
 
+
+
 <!-- ================= PROJECTS ================= -->
 <div align="center">
   <img src="./04-featured-projects.png" width="100%" alt="Featured Projects"/>
 </div>
+
+
 
 <h2 align="center">🚀 FEATURED PROJECTS</h2>
 
@@ -43,15 +51,21 @@
 | Hotel Booking Dashboard | Hotel booking and business performance dashboard | Excel |
 | Data Analytics Projects | Data visualization and business intelligence projects | Power BI, Tableau |
 
+
+
 <!-- ================= JOURNEY ================= -->
 <div align="center">
   <img src="./05-analytics-journey.png" width="100%" alt="Analytics Journey"/>
 </div>
 
+
+
 <!-- ================= CURRENT LEARNING ================= -->
 <div align="center">
   <img src="./06-current-learning.png" width="100%" alt="Current Learning"/>
 </div>
+
+
 
 <!-- ================= GITHUB STATS ================= -->
 <h2 align="center">📊 GITHUB STATISTICS</h2>
@@ -67,6 +81,8 @@
 <img width="70%" src="https://streak-stats.demolab.com?user=vincen1608&theme=dark&hide_border=true&background=080B10&ring=F6D77A&fire=C58B2B&currStreakLabel=F6D77A"/>
 
 </div>
+
+
 
 <!-- ================= CONNECT ================= -->
 <div align="center">
